@@ -1,10 +1,3 @@
-// 4cb1a65b
-//https://omdbapi.com/?s=thor&page=1&apikey=4cb1a65b
-// youtube key api AIzaSyCRsa99NQHTmTsSLPCVzYQIH8ip8YP0kMc
-// channel id UCpJN7kiUkDrH11p0GQhLyFw
-// youtube url GET https://youtube.googleapis.com/youtube/v3/channels?part=snippet&id=UCpJN7kiUkDrH11p0GQhLyFw&maxResults=15&key=AIzaSyCRsa99NQHTmTsSLPCVzYQIH8ip8YP0kMc
-//video link: https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails%2Csnippet&id=Lz-TpS6OY0w&key=AIzaSyCRsa99NQHTmTsSLPCVzYQIH8ip8YP0kMc
-//search link: https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCpJN7kiUkDrH11p0GQhLyFw&key=AIzaSyCRsa99NQHTmTsSLPCVzYQIH8ip8YP0kMc
 const movieSearchBox = document.getElementById('movie-search-box');
 const searchList = document.getElementById('search-list');
 const resultGrid = document.getElementById('result-grid');
